@@ -1,0 +1,29 @@
+{
+  "name": "product-store-mern",
+  "version": "1.0.0",
+  "description": "Basic Store- MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodeman backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namanshukla256/Product-Store-MERN.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namanshukla256/Product-Store-MERN/issues"
+  },
+  "homepage": "https://github.com/namanshukla256/Product-Store-MERN#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  }
+}
